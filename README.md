@@ -1,2 +1,3 @@
-# mydatasteward26
-This is an example repository
+# Example repository for data steward course in 2026
+
+This is an example repository. Please ignore!
